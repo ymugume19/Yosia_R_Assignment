@@ -1,0 +1,33 @@
+---
+title: "Review_Yosia"
+author: "Amy Pollpeter"
+date: "10/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Review of Yosia Mugume's R Markdown Project by Amy Pollpeter
+
+## Running the R-Markdown File
+I started by opening the R-Markdown file and selecting "Run -> Run All".  Below I will describe any errors that were encountered.
+
+The R-markdown file seemed to run smoothly without running into any errors.
+Great Job!
+
+## Review of Graphs Portion of the Assignment
+
+### SNPs per Chromosome and SNP Density
+The "SNP per Chromosome" and SNP Density graphs both looked really good (and very colorful).  Since the bars are already distinguishing each chromosome, the color may be redundant, but it adds a very aesthetic quality to the graph.
+My one suggestion on these graphs would be to add a descriptive title to the top of them describing what is being shown.
+
+### Amount of Heterozygosity
+The amount of heterozygosity graphs looked great and did a good job of showing how much more heterozygosity there is in the data than homozygosity.  It also showed the areas that had missing data which I hadn't seen in other graphs.  Again, a title would be helpful.
+
+### Your Own Visualization
+For the selected visualization, the choice to show the amount of each genotype was unique and interesting.  It might be interesting if you could add (or maybe it would be better in its own graph), the missing data information to a graph such as this.  So your categories would be A/? or ?/A, C/? or ?/C, etc.  This could show some insight as to whether the presence of a specific existing allele had any effect on whether the other allele was missing or not.
+
+## Great Job!
+
